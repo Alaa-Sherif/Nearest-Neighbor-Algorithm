@@ -20,4 +20,4 @@ While heuristic algorithms don't reach an optimal solution but they reach a sub-
 The NN is a greedy heuristic so it makes the best possible decision at each step based on the information available at that moment, without considering the consequences of that decision in the future.
 
 # How the NN works for TSP
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TVipgx0UA4M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+https://user-images.githubusercontent.com/43891138/223479079-40a34473-6a6d-4a43-86a7-323869cdaf33.mp4
